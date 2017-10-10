@@ -52,7 +52,7 @@ If you have associated a PayFabric Device with your PayLink account, the Payment
 Extended Reading
 ----------------
 
-* [PayLink Portal Pages](https://github.com/PayLink/Portal/blob/v2/Features.md)
+* [PayLink Portal Pages](Features.md)
 * [API Documentation](https://github.com/PayLink/APIs)
 * [PayFabric Portal Documentation](https://github.com/PayFabric/Portal)
 * [PayFabric API Documentation](https://github.com/PayFabric/APIs)
