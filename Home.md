@@ -38,7 +38,7 @@ To send a test PayLink please navigate to the **Templates** page, and under **Se
 Extended Reading
 ----------------
 
-* [Quick Start Guide](https://github.com/PayLink/Portal/Quick Start Guide.md)
+* [Quick Start Guide](https://github.com/PayLink/Portal/Quick%20Start%20Guide.md)
 * [API Documentation](https://github.com/PayLink/APIs)
 * [PayFabric Portal Documentation](https://github.com/PayFabric/Portal)
 * [PayFabric API Documentation](https://github.com/PayFabric/APIs)
