@@ -17,7 +17,7 @@ Settings
 
 The **Settings** page is used to define your ERP connection information, configure your Device and Gateway information and setting default gateways per currency in the event that you do not specify a particular gateway via the API.  If you need help configuration your ERP connection please contact our support team at <support@payfabric.com>.
 
-For more information on how to configure your Device and Payment Gateway information please see our [Quick Start Guide](https://github.com/PayLink/Portal/blob/v2/Quick%20Start%20Guide.md).
+For more information on how to configure your Device and Payment Gateway information please see our [Quick Start Guide](Quick%20Start%20Guide.md).
 
 
 Templates
