@@ -1,10 +1,10 @@
-PayLink
+toPayLink
 =======
 
 What is PayLink
 ---------------
 
-PayLink is system that puts the power of Payment Processing in your customers hands.  Easily send requests for payment to your customers using PayLink via email, SMS, or other communication methods.  Your customers can use the link to remit payments and manage their private secure digital wallets.  PayLink provides an easy-to-use Web Interface and simple API for secure payment acceptance for both merchants and developers.  PayLink also include ERP connectors that allow seamless integration with Microsoft Dynamics GP, SL and CRM.
+PayLink is system that puts the power of Payment Processing in your customers hands.  Easily send requests for payment to your customers using PayLink via email, SMS, or other communication methods.  Your customers can use the link to remit payments and manage their private secure digital wallets.  PayLink provides an easy-to-use Web Interface and simple API for secure payment acceptance for both merchants and developers.  PayLink also includes ERP connectors that allow seamless integration with Microsoft Dynamics GP, SL and CRM.
 
 Features
 --------
@@ -19,7 +19,8 @@ Features
 Glossary
 --------
 
-Below is the terms we are using in this documents. You may not see it before, or we will give different meaning other than you previously know about.
+Below are key terms used throughout our documentation. While these might already be familiar, our definitions could be different than those you are used to.
+
 
 | Terms        | Definition| 
 | :-------------|:-------------| 
